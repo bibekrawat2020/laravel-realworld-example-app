@@ -28,4 +28,4 @@ jobs:
           server: ${{ secrets.SERVER }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
-          server-dir: /home/rawatbibek/bibekrawat.com.np/laravel
+          server-dir: /home/rawatbibek/bibekrawat.com.np/laravel/
